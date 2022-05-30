@@ -1,0 +1,79 @@
+/*Estilo fonte*/
+@font-face {
+	font-family: 'Montserrat-Light';
+	src: url("../../lib/fonts/Google_fonts/Montserrat-Light.ttf");
+	font-size: 1em;
+}
+@font-face {
+	font-family: 'Montserrat-Regular';
+	src: url("../../lib/fonts/Google_fonts/Montserrat-Regular.ttf");
+	font-size: 1em;
+}
+@font-face {
+	font-family: 'OpenSansCondensed-Light';
+	src: url("../../lib/fonts/Google_fonts/OpenSansCondensed-Light.ttf");
+	font-size: 1em;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Montserrat-Regular';
+}
+
+p {
+    font-family: 'Montserrat-Light';
+}
+
+/*Navigation*/
+
+#mainNav .container a {
+    font-family: 'Montserrat-Regular';
+}
+
+#mainNav .container button {
+    font-family: 'Montserrat-Regular';
+}
+
+#navbarResponsive .navbar-nav .nav-item .nav-link {
+    font-family: 'Montserrat-Regular';
+}
+
+/*Style Font Site*/
+
+#navigation .navbar-brand {
+    font-family: 'Montserrat-Regular';
+}
+
+.nav-pills .nav-item .nav-link {
+    font-family: 'Montserrat-Regular';
+}
+
+.dropdown-menu .dropdown-item {
+    font-family: 'Montserrat-Regular';
+}
+
+.scrollspySite h4,h5 {
+    font-family: 'Montserrat-Regular';
+}
+
+.card-body h4 {
+    font-family: 'Montserrat-Regular';
+}
+
+.card-footer a {
+    font-family: 'Montserrat-Light';
+}
+
+#nav-tab .nav-item {
+   font-family: 'Montserrat-Regular'; 
+}
+
+/*Footer*/
+
+span {
+    font-family: 'Montserrat-Light';
+}
+.list-inline .list-inline-item a {
+    font-family: 'Montserrat-Light';
+}
